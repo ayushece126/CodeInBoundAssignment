@@ -37,13 +37,13 @@ DATABASE_URL='postgresql://{username}:{password}@{host}/{database}?sslmode=requi
 
 
 # development
-$ yarn start
+$ yarn run start
 
 # watch mode
-$ yarn start:dev
+$ yarn run start:dev
 
 # production mode
-$ yarn start:prod
+$ yarn run start:prod
 
 
 Support
